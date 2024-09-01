@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { motion } from "framer-motion";
 
 function HamburgerMenu() {
   const [isOpen, setIsOpen] = useState(false);
